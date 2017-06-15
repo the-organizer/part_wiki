@@ -1,8 +1,7 @@
 # The Beginning
 
-#### Hello World - Guides are located here
+#### Hello World - Guides are located here:
 
-#####Places to go:
 
 [Projects](projects) - Tutorials
 
