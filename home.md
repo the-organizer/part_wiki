@@ -3,8 +3,8 @@
 #### Hello World - Guides are located here:
 
 
-[Projects](projects) - Tutorials
+[Projects](/_index/projects) - Tutorials
 
-[Parts](parts) - A living datasheet
+[Parts](/_index/parts) - A living datasheet
 
-[Knowledge](guides) - Bites of knowledge (aka Guides)
+[Knowledge](/_index/guides) - Bites of knowledge (aka Guides)
