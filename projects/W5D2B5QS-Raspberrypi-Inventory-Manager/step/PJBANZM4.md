@@ -9,10 +9,15 @@ The outcome of this is a tool to help capture and organize the parts in a garage
  
  A smart phone is also a great interface that requires less setup and similar features. (- Label Printing) Once you decide you want a dedicated interface follw these guides!
  
-  # Skills to be successful in this step
-- Raspi Setup & Basic Operation
-- 
+  ## Skills to be successful in this step
+- Rasberry Pi Setup & Basic Operation
+-
 
+## Objectives
+
+- Connect the display, camera and keyboard to the Rasberry Pi
+- Successfully boot to the desktop and connect to the network.
+- 
 
 
 
