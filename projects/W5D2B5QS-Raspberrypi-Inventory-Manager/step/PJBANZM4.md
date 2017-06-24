@@ -8,6 +8,13 @@ The outcome of this is a tool to help capture and organize the parts in a garage
  Starting with the hardware, we will begin with are core which is a rasberry pi, this will capture images, print labels and interface with the parts database.
  
  A smart phone is also a great interface that requires less setup and similar features. (- Label Printing) Once you decide you want a dedicated interface follw these guides!
+ 
+  # Skills to be successful in this step
+- Raspi Setup & Basic Operation
+- 
+
+
+
 
 
 
