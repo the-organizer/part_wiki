@@ -1,4 +1,3 @@
-### !!Draft!! Im still exploring how and what structure will work best.
 # About the Project:
 The outcome of this is a tool to help capture and organize the parts in a garage or makerspace. In addition to the hardware and software, planning how to and intergrating these tool into your workflow to your benefit.
 
@@ -17,7 +16,6 @@ The outcome of this is a tool to help capture and organize the parts in a garage
 
 - Connect the display, camera and keyboard to the Rasberry Pi
 - Successfully boot to the desktop and connect to the network.
-- 
 
 
 
