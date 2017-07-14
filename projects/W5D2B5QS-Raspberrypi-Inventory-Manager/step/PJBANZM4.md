@@ -10,7 +10,7 @@ The outcome of this is a tool to help capture and organize the parts in a garage
  
   ## Skills to be successful in this step
 - Rasberry Pi Setup & Basic Operation
--
+- Understand the use of this wiki
 
 ## Objectives
 
