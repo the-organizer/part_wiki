@@ -6,6 +6,9 @@ In this step you learn to interface with the camera, barcode scanner and the lab
 - Python 2.7 both coding and installing packages (pip)
 - SSH and basic networking knowledge
 
+#Raspberry Pi Setup
+One of the first steps will be getting your raspiberry pi on your ne
+
 # Adafruit WebIDE
 The first step will be to configure and use the Adafruit development.
 
